@@ -1,0 +1,8 @@
+%matplotlib inline
+import pandas as pd
+import matplotlib.pyploy as plt
+import numpy as np
+import seaborn as sns
+
+plt.style.use("ggplot") 
+plt.rcParams["figure.figsize"] = (12,8)

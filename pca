@@ -11,3 +11,10 @@ PCA -- Prinicpal component analysis (principal compenents : maximize variance of
   - linear transformation tool
   - bag of words/imagery etc can be high dimensional; hard to populate
   - pca & linear discrimnent analysis (linear transformation analysis)  
+
+
+
+for eigenvalues:
+https://arxiv.org/pdf/1404.1100.pdf
+https://mathworld.wolfram.com/EigenDecomposition.html
+
